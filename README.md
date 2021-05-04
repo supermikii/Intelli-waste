@@ -2,8 +2,8 @@
 SFHacks 2021
 
 ## Demo 
-Devpost:
-Youtube: 
+* Devpost: https://devpost.com/software/intelli-waste
+* Youtube: https://youtu.be/vBOSwo9VveA
 
 ## Inspiration for Intelli-Waste
 As the pandemic seems never ending, so are our stay-at-home restrictions. As we all continue to adhere to these restrictions and learn to navigate all our activities from home, the environment has been breathing a sigh of relief. Nevertheless, stay-at-home has increased our consumptions exponentially, resulting in significant rises in household waste production.
