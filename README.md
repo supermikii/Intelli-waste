@@ -23,9 +23,9 @@ Intelli-Waste has you sign into the app and then prompts you with 3 different op
 3) You can navigate to our “Learn More” tab where, by using News API, you can receive links to tons of news articles relating to the concept of sustainability for your own readings. We hope that from this people are able to become more informed about our environment.
 
 
-Built With
-flask
-google-cloud
+## Technologies:
+* flask
+* google-cloud
 google-maps
 javascript
 mongodb
