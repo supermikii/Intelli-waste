@@ -26,9 +26,9 @@ Intelli-Waste has you sign into the app and then prompts you with 3 different op
 ## Technologies:
 * flask
 * google-cloud
-google-maps
-javascript
-mongodb
-python
-react-native
-tensorflow
+* google-maps
+* javascript
+* mongodb
+* python
+* react-native
+* tensorflow
