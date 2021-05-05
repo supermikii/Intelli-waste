@@ -16,7 +16,7 @@ Intelli-Waste is a smart waste management system powered by state-of-the-art AI.
 ## How it works
 Intelli-Waste has you sign into the app and then prompts you with 3 different options.
 
-1) You can navigate straight to the camera where you will take a picture of the garbage item. After this picture is taken, our custom ML model will take this image and run it through image analysis to decipher if it is a recyclable item, a compostable item, or trash. Depending on which it is, it will display that to the user and also update your Carbon Footprint in the dashboard with how much just that one piece has affected your daily CO2 output.
+1) You can navigate straight to the camera where you will take a picture of the garbage item. After this picture is taken, we use a ML model built on top of deep learning and waste classification. It uses a pre-trained image classification network (MobileNet) through transfer learning that will take this image and run it through image analysis to decipher if it is a recyclable item, a compostable item, or trash. Depending on which it is, it will display that to the user and also update your Carbon Footprint in the dashboard with how much just that one piece has affected your daily CO2 output.
 
 2) You can navigate to our maps section which displays every nearby recycling center near you so if you don’t live right on the streets or in a public neighborhood that collects your recycling for you, you can be informed as to where you can find the nearest recycling center.
 
