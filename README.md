@@ -2,7 +2,6 @@
 SFHacks 2021
 
 ## Demo 
-* Devpost: https://devpost.com/software/intelli-waste
 * Youtube: https://youtu.be/vBOSwo9VveA
 
 ## Inspiration for Intelli-Waste
